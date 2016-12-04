@@ -248,7 +248,7 @@ public class Player {
   
   
   public String toString () {
-    return "0 " + identification + " " + xPos + " " + yPos + " " + zPos + " " + horizRot + " " + vertRot;
+    return "0 " + identification + " " + xPos + " " + yPos + " " + zPos + " " + horizRot + " " + vertRot + " ";
   }
   
 }
